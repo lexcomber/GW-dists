@@ -2,7 +2,7 @@
 
 ##Distance metric choice can both reduce and induce collinearity in geographically weighted regression
 
-Alexis Comber ($^1$), Binbin Lu (2) and Paul Harris (3)
+Alexis Comber (1), Binbin Lu (2) and Paul Harris (3)
 
 1 School of Geography, University of Leeds, Leeds, LS2 9JT, UK \
 2 School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China \
