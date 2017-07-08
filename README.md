@@ -1,6 +1,6 @@
 # GW distance metric paper
 
-##Distance metric choice can both reduce and induce collinearity in geographically weighted regression
+## Distance metric choice can both reduce and induce collinearity in geographically weighted regression
 
 Alexis Comber (1), Binbin Lu (2) and Paul Harris (3)
 
